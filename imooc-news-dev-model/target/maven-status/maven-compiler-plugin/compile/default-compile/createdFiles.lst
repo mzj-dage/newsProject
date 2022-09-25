@@ -1,0 +1,6 @@
+com\mzj\pojo\vo\AppUserVO.class
+com\mzj\pojo\AppUser.class
+com\mzj\pojo\Fans.class
+com\mzj\pojo\vo\UserAccountInfoVO.class
+com\mzj\pojo\bo\RegistLoginBO.class
+com\mzj\pojo\bo\UpdateUserInfoBO.class

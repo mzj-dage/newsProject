@@ -1,0 +1,12 @@
+com\mzj\api\aspect\ServiceLogAspect.class
+com\mzj\api\config\InterceptorsConfig.class
+com\mzj\api\controller\user\PassportControllerApi.class
+com\mzj\api\config\Swagger2.class
+com\mzj\api\interceptors\PassportInterceptor.class
+com\mzj\my\mapper\MyMapper.class
+com\mzj\api\interceptors\BaseInterceptor.class
+com\mzj\api\BaseController.class
+com\mzj\api\interceptors\UserTokenInterceptor.class
+com\mzj\api\interceptors\UserActiveInterceptor.class
+com\mzj\api\config\CorsConfig.class
+com\mzj\api\controller\user\UserControllerApi.class
