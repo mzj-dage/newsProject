@@ -1,7 +1,0 @@
-com\mzj\user\controller\UserController.class
-com\mzj\user\service\impl\UserServiceImpl.class
-com\mzj\user\mapper\AppUserMapper.class
-com\mzj\user\mapper\FansMapper.class
-com\mzj\user\UserApplication.class
-com\mzj\user\service\UserService.class
-com\mzj\user\controller\PassportController.class
